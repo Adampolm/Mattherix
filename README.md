@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattherix" alt="mattherix" /> </p>
 
-- 🔭 I’m currently working on [poker](https://github.com/Mattherix/poker)
+- 🔭 I’m currently working on my blog
 
 - 🌱 I’m currently learning **rust**
 
