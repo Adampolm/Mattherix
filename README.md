@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning [gtk](https://www.gtk.org/) (in python)
 
-- 📝 I regulary write articles on [mattherix.github.io](mattherix.github.io)
+- 📝 I regulary write articles on [mattherix.github.io](https://mattherix.github.io)
 
 - 📫 How to reach me **mattherix@protonmail.com**
 
