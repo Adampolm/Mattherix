@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my blog
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning [gtk](https://www.gtk.org/) (in python)
 
 - 📝 I regulary write articles on [mattherix.github.io](mattherix.github.io)
 
