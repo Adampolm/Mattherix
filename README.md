@@ -2,17 +2,6 @@
 <h3 align="center">A student who like programming in rust</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattherix" alt="mattherix" /> </p>
-
-- 🔭 I’m currently working on my blog
-
-- 🌱 I’m currently learning [gtk](https://www.gtk.org/) (in python)
-
-- 📫 How to reach me **mattherix@protonmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/mattherix_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mattherix_" height="30" width="40" /></a>
