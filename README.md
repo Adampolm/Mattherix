@@ -5,10 +5,10 @@
 
 <p alt="contacts" align="center">
   <a href="" TARGET="_blank"><img src="https://img.shields.io/badge/Contact-on%20Discord-blueviolet"  hspace="9" alt="Contact"></a>
+  <a href="https://mamot.fr/Mattherix" TARGET="_blank"><img src="https://img.shields.io/mastodon/follow/Mattherix?domain=https%3A%2F%2Fmamot.fr"  hspace="9" alt="Contact"></a>
+  
   <a href="https://twitter.com/Mattherix_" TARGET="_blank"><img src="https://img.shields.io/badge/Contact-on%20Twitter-blue"  hspace="9" alt="Contact"></a>
   <a href="https://protonmail.com/" TARGET="_blank"><img src="https://img.shields.io/badge/Contact-on%20Email-lightgrey" hspace="9" alt="Contact"></a>
 </p>
 
 <hr>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mattherix)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattherix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
